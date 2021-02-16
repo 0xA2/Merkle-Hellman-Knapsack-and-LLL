@@ -1,14 +1,14 @@
 ####################################################################
 #                                                                  #
 #         ### Merkle-Hellman Knapsack Sage 9.0 Version ###         #
-#								   #								   #
+#                                                                  #
 #  WARNING: I wrote this program to be compatible with Python 3,   #
 #	    however the 'break cipher' feature is only fully       #
-#	    availiable when ran with sagemath to avoid floating	   #
-#	    point limitations. Also, as I'm sure you can tell,     #
-#	    this cryptosystem can be easily broken and should      #
-#	    in no circumstance be considered for any serious       #
-#	    cryptographic use.                                     #
+#	    availiable when ran with sagemath.                     #
+#                                                                  #
+#	    Always keep in mind cryptosystem can be easily         #
+#	    broken and should in no circumstance be                #
+#            considered for any serious cryptographic use.         #
 #                                                                  #
 ####################################################################
 
