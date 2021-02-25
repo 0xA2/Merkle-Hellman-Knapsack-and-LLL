@@ -6,7 +6,7 @@
 #	    however the 'break cipher' feature is only fully       #
 #	    availiable when ran with sagemath.                     #
 #                                                                  #
-#	    Always keep in mind cryptosystem can be easily         #
+#	    Always keep in mind this cryptosystem can be easily    #
 #	    broken and should in no circumstance be                #
 #           considered for any serious cryptographic use.          #
 #                                                                  #
