@@ -8,7 +8,7 @@
 #                                                                  #
 #	    Always keep in mind cryptosystem can be easily         #
 #	    broken and should in no circumstance be                #
-#            considered for any serious cryptographic use.         #
+#           considered for any serious cryptographic use.          #
 #                                                                  #
 ####################################################################
 
