@@ -16,7 +16,7 @@ from random import SystemRandom
 import binascii
 
 # Private key randomness coefficients
-# (NOTE: For demonstration purposes I kept these values very low in order to artificially increase the program's efficiency, in an ideal scenario they should be much higher!)
+# (NOTE: For demonstration purposes I kept these values very low in an ideal scenario they should be much higher!)
 W_RANGE = 10
 Q_RANGE = 10
 
